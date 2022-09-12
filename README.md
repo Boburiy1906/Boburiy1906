@@ -1,4 +1,4 @@
-### Hi there 👋
+### Boburiy_1906 👋
 
 <!--
 **Boburiy1906/Boburiy1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
