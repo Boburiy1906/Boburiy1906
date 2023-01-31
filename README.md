@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boburiy</h1>
 <h3 align="center">Frontend dasturchi</h3>
 
-<h3>Frontend dasturchi👨‍💻. Frontend dasturlashni 2021-yil yozidan o'rganishni boshlaganman.🕛 Hozirgi kunda JavaScriptni chuqurroq o'rganmoqchi bo'layotgan dasturchi🤓</h3>
+<h3>Frontend dasturchi👨‍💻</h3>
 
 [🔗 Telegram](https://t.me/Boburiy1906) | [📧 Email](mailto:Boburshoh1906@gmail.com) | [🐤 twitter](https://twitter.com/@Boburiy1906)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boburiy1906&label=Profile%20views&color=0e75b6&style=flat" alt="boburiy1906" /> </p>
