@@ -28,8 +28,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="60" height="60" /></a>
-  <a href="https://www.w3.org/reactjs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/webpack-original-wordmark.svg"
+  <a href="https://www.w3.org/react/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/webpack-original-wordmark.svg"
         alt="reactjs" width="100" height="100" /></a>
     <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp"
